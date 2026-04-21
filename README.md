@@ -1,5 +1,6 @@
 # Automata-Visualization-Bridging-Theory-and-Practice
-This final year project implements an AI-powered platform for visualizing automata such as NFA (Non-deterministic Finite Automata) and DFA (Deterministic Finite Automata). It combines AI-generated content, interactive visualizations, and a responsive web interface to help students and educators understand automata concepts more intuitively.
+This final year project implements an AI-powered platform for visualizing automata such as NFA (Non-deterministic Finite Automata) and DFA (Deterministic Finite Automata). It combines AI-generated content, interactive visualizations, and a responsive web interface to help students and educators understand automata concepts more intuitively..
+
 
 Key Features
 
